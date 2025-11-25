@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  frequency_type: MyString
+  frequency_value: 1
+  remind_at: 09:21:37
+  notes: MyText
+
+two:
+  name: MyString
+  frequency_type: MyString
+  frequency_value: 1
+  remind_at: 09:21:37
+  notes: MyText
